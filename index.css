@@ -1,0 +1,59 @@
+.mainCont {
+    width: 60%;
+    margin: 0 auto;
+    background-color: lightsteelblue;
+    min-height: 500px;
+    padding: 20px
+}
+
+h1 {
+    font:700 30px verdana;
+    text-transform: capitalize;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#todoInput {
+    width: 80%;
+    min-height: 40px;
+    border-radius: 10px;
+    border: 1px gray solid;
+    padding: 5px;
+    outline: none
+}
+
+#toDoAdd {
+    margin-left: 10px;
+    height: 40px;;
+    border: 0;
+    background-color: lightseagreen;
+    color: #fff;
+    font:700 15px verdana;
+    
+}
+
+#result div {
+    margin: 15px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 60%;
+    border:1px #fff solid;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: bisque;
+    margin-bottom: 20px
+}
+
+.remove {
+    float: right;
+    cursor: pointer;
+}
+
+.error {
+    border: 1px red solid!important;
+}
+
+.error:focus {
+    border:1px solid red !Important;
+    box-shadow: 0 0 10px #e80b5d
+}
