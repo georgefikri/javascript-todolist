@@ -1,5 +1,4 @@
-
-(function(){
+ (function(){
 
 //store the value of the input 
 let input = document.getElementById('todoInput');

@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-To Do component with Vanilla JS 
+ToDo List component with Vanilla JS 
 
 ## Language
 
